@@ -1,0 +1,18 @@
+Linux 			
+	Disabled tunneled clear text passwords - IaaS	5 Mins	2 Mins
+	Disable_NetworkMgr - IaaS	5 Mins	2 Mins
+	Disabling Challenge Authentication - IaaS	5 Mins	2 Mins
+	Enabling to login with password - IaaS	5 Mins	2 Mins
+	Entries In Resolve File - IaaS	5 Mins	2 Mins
+	Setting Nameserver - IaaS	10 Mins	2 Mins
+	Removing Repo - IaaS	5 Mins	2 Mins
+	Add Repo - IaaS	5 Mins	2 Mins
+	Monitoring DataDog Agent - Linux	30 mins	5 mins
+	Linux QAS 	1 Hour	5 Mins
+	Total	135 mins	26 mins
+			
+			
+Windows 			
+	Windows Domain Join 	30 mins	2 mins
+	Monitoring DataDog Agent - IaaS	10 mins	2 mins
+	Total	40 mins	4 mins
