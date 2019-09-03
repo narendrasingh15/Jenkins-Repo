@@ -1,0 +1,28 @@
+About yourself -> Done
+About the company -> 
+Why shud we hire you -> I think I have the skills for the position being Interviewed. I have proven technical skills as well as exposure to F2F Client and International Projects Handling as I have worked in same type of environment for years.
+Why u want to join KPMG?
+Strengths and Weakness -> Positive attitude, Team Player and Fast Learner, Bad Handwriting is weakness.
+I have positive attitude to do the scope being given I might require some guidance initially for learning the Way of working and Processes.
+
+1. Cloud suitability assessment
+Selecting applications for Cloud migration, depending on their complexity, business value and sensitivity
+2. Cloud readiness assessment
+   a. Understand the existing workloads of Customer which they want to move to CLoud.
+   b. Doing Assessment what applications can be migrated and which one to be kept on premise. Decide on What be the approach to setup Hybrid CLoud Like VPN or DX etc.
+      Client might ask to perform POC's for non-critical applications.Prioritize.
+      Timeliness decision to be made Like which months/Weeks Migrations needs to be planned.
+
+3. Steps for analysis of moving to cloud -> Same as Question 2.
+4. Use Cases of hybrid or any other cloud.
+   1. BC and DR
+   2. Backup and Archival Storage.
+   3. For Devops Application development and POC's etc.
+   4. For CLoud Bursting
+
+5. Prerequisites for VM Migration from On-prem to AWS.
+ Check for Which Windows Servers and LInux can be migrated.
+2008, 2008 R2, 2012, 2012 R2, Windows 7,8,10
+RHEL, Ubuntu, SUSE Linux, Debian, Fedora, 
+
+6. SQL DB Migration from On Prem to RDS.
