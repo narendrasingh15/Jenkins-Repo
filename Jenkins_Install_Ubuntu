@@ -1,0 +1,10 @@
+Jenkins Installation on Ubuntu
+==================================
+
+1. wget -q -O - http://pkg.jenkins-ci.org/debian-stable/jenkins-ci.org.key | sudo apt-key add -
+
+2. sudo echo "deb http://pkg.jenkins-ci.org/debian-stable binary/" | tee -a /etc/apt/sources.list
+
+3. sudo apt-get update && apt-get upgrade -y
+
+4. sudo apt-get install jenkins -y
