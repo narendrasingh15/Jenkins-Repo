@@ -1,0 +1,29 @@
+Apache Web Server
+
+1. It helps to deliver Web Content to the users accessed through the internet.
+2. Most Popular Web server.
+3. Have to Install httpd package on RHEL and apache2 on Ubuntu etc.
+4. To Check on RHEL
+rpm -q httpd
+rpm -qa | grep -i httpd
+yum list | grep -i httpd
+
+5. To Check Details of Apache Installed:
+httpd -V
+
+6.Configuration File for httpd is /etc/httpd/conf/httpd.conf
+
+7. You Can create Virtual Host in Config File and can serve multiple websites from same Host.
+Add below Line in conf file at bottom:
+<VirtualHost *:80>
+    ServerName        www.test.com
+    ServerAlias       test.com
+    DocumentRoot      /var/www/html/example.com
+    DirectoryIndex    home.html 
+    ServerAdmin       pranitsingh14@gmail.com
+</VirtualHost>
+
+8. To Test the config file after changes use below command before restarting
+httpd -t
+
+9. Log Files for httpd are at path /var/log/httpd. 
